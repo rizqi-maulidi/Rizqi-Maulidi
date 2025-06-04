@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Rizqi 👋</h1>
 
-<!--
-**rizqi-maulidi/Rizqi-Maulidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Data Enthusiast and undergraduate math student at UIN Syarif Hidayatullah Jakarta  
+💼 Currently doing internship at TauData Indonesia  
+🔬 Interested in Machine Learning, NLP, and Recommender Systems  
+📚 Always learning something new every day
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technology Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📌 Pinned Projects
+
+| Project | Description |
+|--------|-------------|
+| [Churn Prediction](https://github.com/rizqi-maulidi/Churn-Prediction) | Predict churn using Logistic Regression, Random Forest, and XGBoost. |
+| [Rekomendasi Studi](https://github.com/rizqi-maulidi/Recommendation-System) | Content-based recommender system for study program matching. |
+| [Olist E-Commerce Analysis](https://github.com/rizqi-maulidi/Olist-Ecommerce-Analysis) | Customer analysis from e-commerce data for business insights. |
+| [Ten-Sentimen](https://github.com/rizqi-maulidi/Ten-Sentimen) | Sentiment analysis of Indonesian TV ads. |
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rizqi-maulidi&show_icons=true&theme=react" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizqi-maulidi&layout=compact&theme=react" width="48%">
+</p>
+
+---
+
+### 📫 You Can Find Me At
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/rizqi-maulidi-82a88b316)
+[![Email](https://img.shields.io/badge/Email-grey?logo=gmail&style=flat)](mailto:rizqimaulidi@gmail.com)
