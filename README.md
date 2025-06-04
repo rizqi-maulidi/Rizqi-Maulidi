@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Rizqi 👋</h1>
 
 🎓 I'm a Data Enthusiast and graduate math student at UIN Syarif Hidayatullah Jakarta  
-💼 Currently doing internship at Coding Camp powered by DBS Foundation ( Machine Learning Engineer Cohort )  
+💼 Currently doing internship at Coding Camp powered by DBS Foundation (Machine Learning Engineer Cohort)  
 🔬 Aspiring Data Scientist & ML Engineer | Exploring the Power of Data & AI  
 📚 Always learning something new every day
 
@@ -24,7 +24,7 @@
 | Project | Description |
 |--------|-------------|
 | [Churn Prediction](https://github.com/rizqi-maulidi/Churn-Prediction) | Predict churn using Logistic Random Forest, and XGBoost. |
-| [Study Recomendation](https://github.com/rizqi-maulidi/Recommendation-System) | Content-based recommender system for study program matching. |
+| [Study Recomendation](https://github.com/rizqi-maulidi/Recommendation-System) | Content-based (hybrid method) recommender system for study program matching. |
 | [Olist E-Commerce Analysis](https://github.com/rizqi-maulidi/Olist-Ecommerce-Analysis) | Customer analysis from e-commerce data for business insights. |
 | [Tren-Sentimen](https://github.com/rizqi-maulidi/Ten-Sentimen) | Gojek. |
 
