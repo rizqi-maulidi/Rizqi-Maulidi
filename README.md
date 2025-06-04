@@ -41,5 +41,5 @@
 
 ### 📫 You Can Find Me At
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)]([https://www.linkedin.com/in/rizqi-maulidi-82a88b316](https://www.linkedin.com/in/rizqi-maulidi/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/rizqi-maulidi/))
 [![Email](https://img.shields.io/badge/Email-grey?logo=gmail&style=flat)](mailto:rizqimaulidi@gmail.com)
