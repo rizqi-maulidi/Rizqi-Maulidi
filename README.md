@@ -2,8 +2,8 @@
 
 🎓 I'm a Data Enthusiast and graduate math student at UIN Syarif Hidayatullah Jakarta  
 💼 Currently doing internship at Coding Camp powered by DBS Foundation (Machine Learning Engineer Cohort)  
-🔬 Aspiring Data Scientist & ML Engineer | Exploring the Power of Data & AI  
-📚 Always learning something new every day
+🔬 Aspiring Data Scientist & ML Engineer
+📚 Exploring the Power of Data & AI  
 
 ---
 
