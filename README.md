@@ -3,7 +3,7 @@
 🎓 I'm a Data Enthusiast and a mathematics graduate from UIN Syarif Hidayatullah Jakarta  
 💼 Currently interning at Coding Camp powered by DBS Foundation (Machine Learning Engineer Cohort)  
 🔬 Aspiring Data Scientist and Machine Learning Engineer  
-📚 Passionate about exploring the power of Data and AI  
+📚 Passionate about unlocking insights and solving problems through Data and AI  
 
 ---
 
@@ -12,7 +12,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
@@ -23,10 +23,10 @@
 
 | Project | Description |
 |--------|-------------|
-| [Olist E-Commerce Analysis](https://github.com/rizqi-maulidi/Olist-Ecommerce-Analysis) | Customer analysis from e-commerce data for business insights. |
-| [Churn Prediction](https://github.com/rizqi-maulidi/Churn-Prediction) | Predict churn using Random Forest, and XGBoost. |
-| [Study Recomendation](https://github.com/rizqi-maulidi/Recommendation-System) | Content-based (hybrid method) recommender system for study program matching. |
-| [Sentiment_Analysis_Gojek](https://github.com/rizqi-maulidi/Sentiment_Analysis_Gojek) | Sentiment analysis of Gojek app reviews on Playstore using various techniques such as LSTM & Transformers |
+| [Olist E-Commerce Analysis](https://github.com/rizqi-maulidi/Olist-Ecommerce-Analysis) | Analyzing customer behavior from e-commerce data to generate business insights. |
+| [Churn Prediction](https://github.com/rizqi-maulidi/Churn-Prediction) | Predicting customer churn using Random Forest and XGBoost models. |
+| [Study Recommendation](https://github.com/rizqi-maulidi/Recommendation-System) | A hybrid content-based recommender system for study program matching. |
+| [Sentiment Analysis Gojek](https://github.com/rizqi-maulidi/Sentiment_Analysis_Gojek) | Sentiment analysis of Gojek app reviews using LSTM and Transformer-based models. |
 
 ---
 
@@ -41,5 +41,5 @@
 
 ### 📫 You Can Find Me At
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/rizqi-maulidi/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/rizqi-maulidi/)  
 [![Email](https://img.shields.io/badge/Email-grey?logo=gmail&style=flat)](mailto:rizqimaulidi@gmail.com)
