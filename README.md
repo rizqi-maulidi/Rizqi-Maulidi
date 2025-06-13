@@ -25,7 +25,7 @@
 |--------|-------------|
 | [Olist E-Commerce Analysis](https://github.com/rizqi-maulidi/Olist-Ecommerce-Analysis) | Analyzing customer behavior from e-commerce data to generate business insights. |
 | [Churn Prediction](https://github.com/rizqi-maulidi/Churn-Prediction) | Predicting customer churn using Random Forest and XGBoost models. |
-| [Study Recommendation](https://github.com/rizqi-maulidi/Recommendation-System) | A hybrid content-based recommender system for study program matching. |
+| [Study Recommendation](https://github.com/rizqi-maulidi/Recomendation-System) | A hybrid content-based recommender system for study program matching. |
 | [Sentiment Analysis Gojek](https://github.com/rizqi-maulidi/Sentiment_Analysis_Gojek) | Sentiment analysis of Gojek app reviews using LSTM and Transformer-based models. |
 
 ---
