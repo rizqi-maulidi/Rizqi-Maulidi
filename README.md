@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Rizqi 👋</h1>
 
-🎓 I'm a Data Enthusiast and graduate math student at UIN Syarif Hidayatullah Jakarta  
-💼 Currently doing internship at Coding Camp powered by DBS Foundation (Machine Learning Engineer Cohort)  
-🔬 Aspiring Data Scientist & ML Engineer  
-📚 Exploring the Power of Data & AI  
+🎓 I'm a Data Enthusiast and a mathematics graduate from UIN Syarif Hidayatullah Jakarta  
+💼 Currently interning at Coding Camp powered by DBS Foundation (Machine Learning Engineer Cohort)  
+🔬 Aspiring Data Scientist and Machine Learning Engineer  
+📚 Passionate about exploring the power of Data and AI  
 
 ---
 
@@ -26,7 +26,7 @@
 | [Olist E-Commerce Analysis](https://github.com/rizqi-maulidi/Olist-Ecommerce-Analysis) | Customer analysis from e-commerce data for business insights. |
 | [Churn Prediction](https://github.com/rizqi-maulidi/Churn-Prediction) | Predict churn using Random Forest, and XGBoost. |
 | [Study Recomendation](https://github.com/rizqi-maulidi/Recommendation-System) | Content-based (hybrid method) recommender system for study program matching. |
-| [Sentiment_Analysis_Gojek](https://github.com/rizqi-maulidi/Sentiment_Analysis_Gojek) | Analisis sentimen terhadap ulasan aplikasi Gojek menggunakan berbagai teknik seperti LSTM & Transformers |
+| [Sentiment_Analysis_Gojek](https://github.com/rizqi-maulidi/Sentiment_Analysis_Gojek) | Sentiment analysis of Gojek app reviews on Playstore using various techniques such as LSTM & Transformers |
 
 ---
 
