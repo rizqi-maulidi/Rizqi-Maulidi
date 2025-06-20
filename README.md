@@ -23,6 +23,7 @@
 
 | Project | Description |
 |--------|-------------|
+| [Adopt House](https://github.com/capstoneadoptpet) | Web-based pet adoption platform that applies machine learning. |
 | [Olist E-Commerce Analysis](https://github.com/rizqi-maulidi/Olist-Ecommerce-Analysis) | Analyzing customer behavior from e-commerce data to generate business insights. |
 | [Churn Prediction](https://github.com/rizqi-maulidi/Churn-Prediction) | Predicting customer churn using Random Forest and XGBoost models. |
 | [Study Recommendation](https://github.com/rizqi-maulidi/Recomendation-System) | A hybrid content-based recommender system for study program matching. |
