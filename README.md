@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm Rizqi 👋</h1>
+<h1 align="center">Hi there, I'm Rizqi Maulidi 👋</h1>
 
 🎓 I'm a Data Enthusiast and a mathematics graduate from UIN Syarif Hidayatullah Jakarta  
-💼 Currently interning at Coding Camp powered by DBS Foundation (Machine Learning Engineer Cohort)  
+💼 Currently interning at Naradata ID
 🔬 Aspiring Data Scientist and Machine Learning Engineer  
 📚 Passionate about unlocking insights and solving problems through Data and AI  
 
