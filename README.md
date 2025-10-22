@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Rizqi Maulidi 👋</h1>
 
 🎓 I'm a Data Enthusiast and a mathematics graduate from UIN Syarif Hidayatullah Jakarta  
-💼 Currently internship at Naradata ID  
-🔬 Aspiring Data Scientist and Machine Learning Engineer  
+💼 Currently work at Naradata ID  
+🔬 Data Scientist and Machine Learning Engineer  
 📚 Passionate about unlocking insights and solving problems through Data and AI  
 
 ---
