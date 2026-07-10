@@ -61,8 +61,16 @@
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rizqi-maulidi&show_icons=true&theme=react&hide_border=true" height="185" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rizqi-maulidi&layout=compact&theme=react&hide_border=true" height="185" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=rizqi-maulidi&show_icons=true&theme=react&hide_border=true&card_width=450"
+    height="170"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rizqi-maulidi&layout=compact&theme=react&hide_border=true&card_width=450"
+    height="180"
+    alt="Top Languages"
+  />
 </p>
 
 ---
