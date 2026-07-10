@@ -1,8 +1,7 @@
-<p align="center">
-  <img src="https://capsule-render.github.io/api?type=waving&color=auto&height=220&section=header&text=Rizqi%20Maulidi&subtitle=Data%20Scientist%20%7C%20Machine%20Learning%20Engineer&fontSize=45&subFontSize=20&animation=fadeIn" width="100%"/>
-</p>
+# Hi there, I'm Rizqi Maulidi 👋
+### 🚀 Data Scientist & Machine Learning Engineer
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/rizqi-maulidi/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -65,11 +64,6 @@
   <!-- Menggunakan GitHub Readme Stats CDN Alternatif yang dionggal secara stabil -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rizqi-maulidi&show_icons=true&theme=react&hide_border=true" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rizqi-maulidi&layout=compact&theme=react&hide_border=true" width="48%" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <!-- Grafik Kontribusi Alternatif Tanpa Hit GitHub API Langsung -->
-  <img src="https://activity-graph.dinhype.workers.dev/graph?username=rizqi-maulidi&theme=github" width="100%" alt="Activity Graph" />
 </p>
 
 ---
