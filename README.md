@@ -60,13 +60,16 @@
 
 ### 📈 GitHub Analytics
 
-<p align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rizqi-maulidi&show_icons=true&theme=react&hide_border=true" height="195" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <!-- Top Languages Card (Disamakan tingginya) -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rizqi-maulidi&theme=react&hide_border=true" height="195" alt="Top Languages" />
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rizqi-maulidi&show_icons=true&theme=react&hide_border=true" width="95%" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rizqi-maulidi&layout=compact&theme=react&hide_border=true&langs_count=5" width="95%" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
