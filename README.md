@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Rizqi Maulidi
 
-###  Data Scientist • Machine Learning Engineer
+###  Data Scientist & Machine Learning Engineer
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rizqi-maulidi/">
