@@ -1,9 +1,14 @@
-<!-- Header Graphics -->
-<img src="https://capsule-render.github.io/api?type=waving&color=auto&height=220&section=header&text=Rizqi%20Maulidi&subtitle=Data%20Scientist%20%7C%20Machine%20Learning%20Engineer&fontSize=45&subFontSize=20&animation=fadeIn" width="100%"/>
+<p align="center">
+  <img src="https://capsule-render.github.io/api?type=waving&color=auto&height=220&section=header&text=Rizqi%20Maulidi&subtitle=Data%20Scientist%20%7C%20Machine%20Learning%20Engineer&fontSize=45&subFontSize=20&animation=fadeIn" width="100%"/>
+</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rizqi-maulidi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:rizqimaulidi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/rizqi-maulidi/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:rizqimaulidi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ---
@@ -27,7 +32,7 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
 </details>
 
 <details open>
@@ -57,14 +62,14 @@
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <!-- GitHub Activity Graph - Paling stabil & anti rate-limit karena di-host di layanan berbeda -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rizqi-maulidi&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%" alt="Rizqi's GitHub Activity Graph" />
+  <!-- Menggunakan GitHub Readme Stats CDN Alternatif yang dionggal secara stabil -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rizqi-maulidi&show_icons=true&theme=react&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rizqi-maulidi&layout=compact&theme=react&hide_border=true" width="48%" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <!-- GitHub Readme Stats Alternative Server (Menggunakan Mirror Server Anurag) -->
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=rizqi-maulidi&show_icons=true&theme=react&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=rizqi-maulidi&layout=compact&theme=react&hide_border=true" width="48%" alt="Top Languages" />
+  <!-- Grafik Kontribusi Alternatif Tanpa Hit GitHub API Langsung -->
+  <img src="https://activity-graph.dinhype.workers.dev/graph?username=rizqi-maulidi&theme=github" width="100%" alt="Activity Graph" />
 </p>
 
 ---
