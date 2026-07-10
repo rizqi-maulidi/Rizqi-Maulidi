@@ -61,9 +61,11 @@
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <!-- Menggunakan GitHub Readme Stats CDN Alternatif yang dionggal secara stabil -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rizqi-maulidi&show_icons=true&theme=react&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rizqi-maulidi&layout=compact&theme=react&hide_border=true" width="48%" alt="Top Languages" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rizqi-maulidi&show_icons=true&theme=react&hide_border=true" height="195" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <!-- Top Languages Card (Disamakan tingginya) -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rizqi-maulidi&theme=react&hide_border=true" height="195" alt="Top Languages" />
 </p>
 
 ---
