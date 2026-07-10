@@ -10,20 +10,10 @@
 
 ### 💫 About Me
 
-<table align="center" width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <p>🎓 <b>Data Enthusiast</b> and a Mathematics graduate from <b>UIN Syarif Hidayatullah Jakarta</b>.</p>
-      <p>💼 Currently working at <b>Naradata ID</b> as a <b>Data Scientist & Machine Learning Engineer</b>.</p>
-      <p>📚 Passionate about unlocking hidden insights, building predictive models, and solving complex real-world problems through Data and AI.</p>
-      <p>⚡ Fun fact: Combining mathematical logic with machine learning architectures is my playground!</p>
-    </td>
-    <td width="40%" valign="top" align="center">
-      <!-- GitHub Trophies for gamification look -->
-      <img src="https://github-profile-trophy.vercel.app/?username=rizqi-maulidi&theme=react&column=2&margin-w=5&margin-h=5" alt="GitHub Trophies" width="90%"/>
-    </td>
-  </tr>
-</table>
+<p>🎓 <b>Data Enthusiast</b> and a Mathematics graduate from <b>UIN Syarif Hidayatullah Jakarta</b>.</p>
+<p>💼 Currently working at <b>Naradata ID</b> as a <b>Data Scientist & Machine Learning Engineer</b>.</p>
+<p>📚 Passionate about unlocking hidden insights, building predictive models, and solving complex real-world problems through Data and AI.</p>
+<p>⚡ Fun fact: Combining mathematical logic with machine learning architectures is my playground!</p>
 
 ---
 
@@ -67,15 +57,14 @@
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <!-- GitHub Readme Stats with Cache & Custom Theme -->
-  <img src="https://github-readme-stats.vercel.app/api?username=rizqi-maulidi&show_icons=true&theme=react&cache_seconds=86400&hide_border=true" width="48%" alt="Rizqi's GitHub Stats" />
-  <!-- Top Languages Card with Cache -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizqi-maulidi&layout=compact&theme=react&cache_seconds=86400&hide_border=true" width="48%" alt="Rizqi's Top Languages" />
+  <!-- GitHub Activity Graph - Paling stabil & anti rate-limit karena di-host di layanan berbeda -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rizqi-maulidi&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%" alt="Rizqi's GitHub Activity Graph" />
 </p>
 
 <p align="center">
-  <!-- GitHub Streak Stats for consistency tracker -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizqi-maulidi&theme=react&hide_border=true" width="97%" alt="GitHub Streak" />
+  <!-- GitHub Readme Stats Alternative Server (Menggunakan Mirror Server Anurag) -->
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=rizqi-maulidi&show_icons=true&theme=react&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=rizqi-maulidi&layout=compact&theme=react&hide_border=true" width="48%" alt="Top Languages" />
 </p>
 
 ---
