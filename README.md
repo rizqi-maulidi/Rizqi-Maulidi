@@ -1,64 +1,89 @@
-# Hi there, I'm Rizqi Maulidi 👋
-### 🚀 Data Scientist & Machine Learning Engineer
+# 👋 Hi there, I'm Rizqi Maulidi
+
+###  Data Scientist • Machine Learning Engineer • AI Enthusiast
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rizqi-maulidi/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:rizqimaulidi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+</p>
+
+<p>
+💡 Building AI Solutions • 📊 Turning Data into Insights • 🤖 Machine Learning
 </p>
 
 ---
 
-### 💫 About Me
+## 💫 About Me
 
-<p>🎓 <b>Data Enthusiast</b> and a Mathematics graduate from <b>UIN Syarif Hidayatullah Jakarta</b>.</p>
-<p>💼 Currently working at <b>Naradata ID</b> as a <b>Data Scientist & Machine Learning Engineer</b>.</p>
-<p>📚 Passionate about unlocking hidden insights, building predictive models, and solving complex real-world problems through Data and AI.</p>
-<p>⚡ Fun fact: Combining mathematical logic with machine learning architectures is my playground!</p>
+- 🎓 Mathematics Graduate from **UIN Syarif Hidayatullah Jakarta**
+- 💼 Currently working at **Naradata ID** as a **Data Scientist & Machine Learning Engineer**
+- 🧠 Passionate about **Machine Learning, NLP, Data Engineering, and Data Analytics**
+- 📈 Enjoy transforming raw data into meaningful insights and intelligent applications
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+## 🛠️ Tech Stack & Tooling
 
 <details open>
-  <summary><b>🧠 Data Science & Machine Learning</b></summary>
-  <br/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
+<summary><b>🧠 Data Science & Machine Learning</b></summary>
+
+<br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+
 </details>
 
 <details open>
-  <summary><b>🌐 Backend & Engineering Tools</b></summary>
-  <br/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/SQL%20(MySQL)-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+<summary><b>⚙️ Backend & Data Engineering</b></summary>
+
+<br>
+
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
+
+</details>
+
+<details open>
+<summary><b>🛠️ Development Tools</b></summary>
+
+<br>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+
 </details>
 
 ---
 
-### 📌 Featured Projects
+## 📌 Featured Projects
 
-| Project | Stack | Description |
-| :--- | :---: | :--- |
-| 🐾 **[Adopt House](https://github.com/capstoneadoptpet)** | `ML` `Web` | Web-based pet adoption platform that applies machine learning. |
-| 📊 **[Olist E-Commerce Analysis](https://github.com/rizqi-maulidi/Olist-Ecommerce-Analysis)** | `EDA` `Insights` | Analyzing customer behavior from e-commerce data to generate business insights. |
-| 📉 **[Churn Prediction](https://github.com/rizqi-maulidi/Churn-Prediction)** | `RF` `XGBoost` | Predicting customer churn using Random Forest and XGBoost models. |
-| 🎓 **[Study Recommendation](https://github.com/rizqi-maulidi/Recomendation-System)** | `NLP` `Hybrid` | A hybrid content-based recommender system for study program matching. |
-| 💬 **[Sentiment Analysis Gojek](https://github.com/rizqi-maulidi/Sentiment_Analysis_Gojek)** | `LSTM` `Transformer` | Sentiment analysis of Gojek app reviews using LSTM and Transformer-based models. |
+|  Project |  Tech |  Description |
+|:---|:---:|:---|
+| 🐾 **[Adopt House](https://github.com/capstoneadoptpet)** | `ML` `Web` | Web-based pet adoption platform powered by Machine Learning. |
+| 📊 **[Olist E-Commerce Analysis](https://github.com/rizqi-maulidi/Olist-Ecommerce-Analysis)** | `EDA` `Business Insights` | Exploratory data analysis to uncover customer purchasing behavior. |
+| 📉 **[Churn Prediction](https://github.com/rizqi-maulidi/Churn-Prediction)** | `Random Forest` `XGBoost` | Predicting customer churn using ensemble learning algorithms. |
+| 🎓 **[Study Recommendation System](https://github.com/rizqi-maulidi/Recomendation-System)** | `NLP` `Hybrid` | Hybrid recommendation system for university major matching. |
+| 💬 **[Sentiment Analysis Gojek](https://github.com/rizqi-maulidi/Sentiment_Analysis_Gojek)** | `LSTM` `Transformer` | Deep Learning-based sentiment analysis of Gojek reviews. |
 
 ---
 
-### 📈 GitHub Analytics
+## 📈 GitHub Analytics
 
 <p align="center">
   <img
@@ -73,8 +98,19 @@
   />
 </p>
 
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=rizqi-maulidi&theme=react&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rizqi-maulidi&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=rizqi-maulidi&color=blueviolet&style=flat-square" />
+</p>
+
+<p align="center">
+⭐ Thanks for visiting my profile! ⭐
 </p>
