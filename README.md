@@ -12,24 +12,24 @@
 </p>
 
 <p>
-💡 Building AI Solutions • 📊 Turning Data into Insights • 🤖 Machine Learning
+ Building AI Solutions •  Turning Data into Insights •  Machine Learning
 </p>
 
 ---
 
 ## 💫 About Me
 
-- 🎓 Mathematics Graduate from **UIN Syarif Hidayatullah Jakarta**
-- 💼 Currently working at **Naradata ID** as a **Data Scientist & Machine Learning Engineer**
-- 🧠 Passionate about **Machine Learning, NLP, Data Engineering, and Data Analytics**
-- 📈 Enjoy transforming raw data into meaningful insights and intelligent applications
+-  Mathematics Graduate from **UIN Syarif Hidayatullah Jakarta**
+-  Currently working at **Naradata ID** as a **Data Scientist & Machine Learning Engineer**
+-  Passionate about **Machine Learning, NLP, Data Engineering, and Data Analytics**
+-  Enjoy transforming raw data into meaningful insights and intelligent applications
 
 ---
 
 ## 🛠️ Tech Stack & Tooling
 
 <details open>
-<summary><b>🧠 Data Science & Machine Learning</b></summary>
+<summary><b> Data Science & Machine Learning</b></summary>
 
 <br>
 
@@ -44,7 +44,7 @@
 </details>
 
 <details open>
-<summary><b>⚙️ Data Engineering</b></summary>
+<summary><b> Data Engineering</b></summary>
 
 <br>
 
@@ -57,7 +57,7 @@
 </details>
 
 <details open>
-<summary><b>🛠️ Development Tools</b></summary>
+<summary><b> Development Tools</b></summary>
 
 <br>
 
@@ -70,19 +70,19 @@
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 |  Project |  Tech |  Description |
 |:---|:---:|:---|
-| 🐾 **[Adopt House](https://github.com/capstoneadoptpet)** | `ML` `Web` | Web-based pet adoption platform powered by Machine Learning. |
-| 📊 **[Olist E-Commerce Analysis](https://github.com/rizqi-maulidi/Olist-Ecommerce-Analysis)** | `EDA` `Business Insights` | Exploratory data analysis to uncover customer purchasing behavior. |
-| 📉 **[Churn Prediction](https://github.com/rizqi-maulidi/Churn-Prediction)** | `Random Forest` `XGBoost` | Predicting customer churn using ensemble learning algorithms. |
-| 🎓 **[Study Recommendation System](https://github.com/rizqi-maulidi/Recomendation-System)** | `NLP` `Hybrid` | Hybrid recommendation system for university major matching. |
-| 💬 **[Sentiment Analysis Gojek](https://github.com/rizqi-maulidi/Sentiment_Analysis_Gojek)** | `LSTM` `Transformer` | Deep Learning-based sentiment analysis of Gojek reviews. |
+|  **[Adopt House](https://github.com/capstoneadoptpet)** | `ML` `Web` | Web-based pet adoption platform powered by Machine Learning. |
+|  **[Olist E-Commerce Analysis](https://github.com/rizqi-maulidi/Olist-Ecommerce-Analysis)** | `EDA` `Business Insights` | Exploratory data analysis to uncover customer purchasing behavior. |
+|  **[Churn Prediction](https://github.com/rizqi-maulidi/Churn-Prediction)** | `Random Forest` `XGBoost` | Predicting customer churn using ensemble learning algorithms. |
+|  **[Study Recommendation System](https://github.com/rizqi-maulidi/Recomendation-System)** | `NLP` `Hybrid` | Hybrid recommendation system for university major matching. |
+|  **[Sentiment Analysis Gojek](https://github.com/rizqi-maulidi/Sentiment_Analysis_Gojek)** | `LSTM` `Transformer` | Deep Learning-based sentiment analysis of Gojek reviews. |
 
 ---
 
-## 📈 GitHub Analytics
+##  GitHub Analytics
 
 <p align="center">
   <img
