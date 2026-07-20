@@ -44,7 +44,7 @@
 </details>
 
 <details open>
-<summary><b>⚙️ Backend & Data Engineering</b></summary>
+<summary><b>⚙️ Data Engineering</b></summary>
 
 <br>
 
